@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mustavi.sadim99@gmail.com**
 
-- 👨‍💻 All of my projects are available at [Click](https://github.com/Mustavi-99)
+- 👨‍💻 All of my projects are available at [Click](https://github.com/Mustavi-99?tab=repositories)
 
 <!--- - 📽️ My YouTube channel [Click](https://www.youtube.com/channel/UC_87uQgmvAlbjmnIZcCIe_w) -->
 
