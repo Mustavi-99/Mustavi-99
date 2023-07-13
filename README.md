@@ -1,4 +1,3 @@
-![image](https://github.com/Mustavi-99/Mustavi-99/assets/71808749/73081b97-42db-47d4-8826-78468417964e)
 ### Hi there 👋
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
