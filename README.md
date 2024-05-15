@@ -20,7 +20,7 @@
 
 <!--- - 📽️ My YouTube channel [Click](https://www.youtube.com/channel/UC_87uQgmvAlbjmnIZcCIe_w) -->
 
-- 📄 My resume [Click](https://drive.google.com/file/d/1yaP9xvwGh-K9DdLUzN66c6XPsm3PLMKt/view?usp=sharing)
+- 📄 My resume [Click](https://drive.google.com/file/d/1bzcoeJM3S6fPFZW5Va1fMm1MbnqedKUQ/view?usp=sharing)
 
 <!---- 🙍‍♂️ My portfolio [Click](https://atiqurrahmanani.github.io/portfolio/) -->
 
