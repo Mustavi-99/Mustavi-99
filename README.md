@@ -2,7 +2,7 @@
 
 ![MasterHead](https://github.com/Mustavi-99/Mustavi-99/blob/main/GiTHeader.gif)
 <!-- <h1 align="center">Hi 👋, I'm Mustavi Ibne Masum</h1> -->
-<h3 align="center">I am a B.Sc. graduate from the Ahsanullah University of Science and Technology.</h3>
+<h3 align="center">I am Master's Student studying at Lakehead University.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Mustavi-99/Mustavi-99/blob/main/GitProf.gif">
 
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=atiqurrahmanani&label=Profile%20views&color=0e75b6&style=flat" alt="atiqurrahmanani" /> </p> -->
