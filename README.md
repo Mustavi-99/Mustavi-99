@@ -18,7 +18,7 @@
 ### 🧑‍🔬 About me
 
 - 🎓 Graduate student and researcher at **Lakehead University**, Canada
-- 🔭 Research interests: **quantum machine learning**, **wireless channel estimation (OFDM / CSI)**, **underwater communication channels**
+- 🔭 Research interests: **Optimization**, **Mining**, **Large Language Models (LLMs)**, **Computer Vision**
 - 🧑‍🏫 Teaching Assistant
 - 💬 Ask me about **C, C++, Python**
 - 📫 Reach me at **mustavi.sadim99@gmail.com**
